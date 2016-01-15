@@ -1,0 +1,36 @@
+{
+  "name": "appname",
+  "version": "1.0.0",
+  "description": "appname web-app",
+  "devDependencies": {
+    "browser-sync": "^2.11.0",
+    "del": "^2.2.0",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-if": "^2.0.0",
+    "gulp-minify-css": "^1.2.3",
+    "gulp-plumber": "^1.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-rev": "^6.0.1",
+    "gulp-sass": "^2.1.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.4.2",
+    "gulp-util": "^3.0.7",
+    "q": "^1.4.1"
+  },
+  "keywords": [
+    "appname web-app developed by ntechdev company"
+  ],
+  "bugs": {
+    "url": "http://ntechdev.com",
+    "email": "eduard.pleh@gmail.com"
+  },
+  "main": "",
+  "license": "MIT",
+  "homepage": "http://ntechdev.com",
+  "author": "Eduard Pleh <eduard.pleh@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
